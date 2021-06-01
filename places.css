@@ -1,0 +1,22 @@
+/* this is for places */
+
+body{
+  background-color: #FFAAAA; /*teal*/
+  text-align: center;
+}
+
+
+p{
+  font-family: 'Gabriela', serif;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+}
+
+.container{
+  image-orientation: center;
+}
+
+.container1{
+  image-orientation: center;
+}

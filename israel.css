@@ -1,0 +1,49 @@
+/* this is for israel */
+
+body{
+  background-color: #F2E2FA; /*faint purple*/
+  text-align: center;
+}
+
+h1{
+  font-family: 'Gabriela', cursive;
+  font-size: 50px;
+  font-style: italic;
+  color: #360153; /*dark purple*/
+  text-align: center;
+}
+
+p{
+  font-family: 'Quintessential', cursive;
+  font-size: 18px;
+  color: #801515;
+}
+
+.picture1{
+  text-align: right;
+}
+
+.picture2{
+  text-align: center;
+}
+
+.picture3{
+  text-align: left;
+}
+
+.picture4{
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+}
+
+.b7{
+  width: "400px";
+  height: "350px";
+}
+
+img:hover{
+  transform: scale(1.1);
+}
